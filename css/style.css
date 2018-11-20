@@ -1,0 +1,240 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .image0 {
+    margin-left: 198px;
+    margin-top: 1417px;
+    width: 8px;
+    height: 8px
+  }
+  .style4 {
+    color: #665757;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: .25em;
+    line-height: 8px;
+    margin-left: 120px;
+    margin-top: 9px;
+    width: 136px
+  }
+  .style2,
+  .style3 {
+    color: #fff;
+    text-align: center
+  }
+  .style3 {
+    font-family: Montserrat,serif;
+    font-size: .4375em;
+    height: 5px;
+    margin-left: 166px;
+    margin-top: 66px
+  }
+  .style2 {
+    line-height: 8px;
+    margin-left: 121px;
+    margin-top: 14px;
+    width: 134px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: Montserrat,serif;
+    font-size: .25em
+  }
+  .style1 {
+    text-align: center;
+    color: #fff;
+    margin-left: 173px;
+    margin-top: 18px;
+    height: 3px
+  }
+  .style0 {
+    color: #1f0023;
+    margin-left: 62px;
+    margin-top: 38px;
+    height: 4px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .image0 {
+    margin-left: 406px;
+    margin-top: 2902px;
+    width: 16px;
+    height: 16px
+  }
+  .style4 {
+    color: #665757;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: .512em;
+    line-height: 16px;
+    margin-left: 246px;
+    margin-top: 18px;
+    width: 279px
+  }
+  .style2,
+  .style3 {
+    color: #fff;
+    text-align: center
+  }
+  .style3 {
+    font-family: Montserrat,serif;
+    font-size: .896em;
+    height: 10px;
+    margin-left: 340px;
+    margin-top: 135px
+  }
+  .style2 {
+    line-height: 16px;
+    margin-left: 248px;
+    margin-top: 29px;
+    width: 274px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: Montserrat,serif;
+    font-size: .512em
+  }
+  .style1 {
+    text-align: center;
+    color: #fff;
+    margin-left: 354px;
+    margin-top: 37px;
+    height: 6px
+  }
+  .style0 {
+    color: #1f0023;
+    margin-left: 127px;
+    margin-top: 78px;
+    height: 8px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .image0 {
+    margin-left: 486px;
+    margin-top: 3476px;
+    width: 20px;
+    height: 20px
+  }
+  .style4 {
+    color: #665757;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: .6133333333333333em;
+    line-height: 20px;
+    margin-left: 294px;
+    margin-top: 22px;
+    width: 334px
+  }
+  .style2,
+  .style3 {
+    color: #fff;
+    text-align: center
+  }
+  .style3 {
+    font-family: Montserrat,serif;
+    font-size: 1.0733333333333333em;
+    height: 12px;
+    margin-left: 407px;
+    margin-top: 162px
+  }
+  .style2 {
+    line-height: 20px;
+    margin-left: 297px;
+    margin-top: 34px;
+    width: 329px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: Montserrat,serif;
+    font-size: .6133333333333333em
+  }
+  .style1 {
+    text-align: center;
+    color: #fff;
+    margin-left: 424px;
+    margin-top: 44px;
+    height: 7px
+  }
+  .style0 {
+    color: #1f0023;
+    margin-left: 152px;
+    margin-top: 93px;
+    height: 10px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .image0 {
+    margin-left: 634px;
+    margin-top: 4534px;
+    width: 26px;
+    height: 26px
+  }
+  .style4 {
+    color: #665757;
+    text-align: center;
+    font-family: Montserrat,serif;
+    font-size: .8em;
+    line-height: 26px;
+    margin-left: 384px;
+    margin-top: 29px;
+    width: 435px
+  }
+  .style2,
+  .style3 {
+    color: #fff;
+    text-align: center
+  }
+  .style3 {
+    font-family: Montserrat,serif;
+    font-size: 1.4000000000000001em;
+    height: 16px;
+    margin-left: 531px;
+    margin-top: 211px
+  }
+  .style2 {
+    line-height: 26px;
+    margin-left: 387px;
+    margin-top: 45px;
+    width: 429px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: Montserrat,serif;
+    font-size: .8em
+  }
+  .style1 {
+    text-align: center;
+    color: #fff;
+    margin-left: 554px;
+    margin-top: 58px;
+    height: 10px
+  }
+  .style0 {
+    color: #1f0023;
+    margin-left: 198px;
+    margin-top: 122px;
+    height: 13px
+  }
+}
